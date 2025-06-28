@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900display=swap');
+
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.item-list {
+    margin: 1.5rem 0;
+}
+
+a {
+    color: rgba(83, 155, 245, 1);
+    text-decoration: none; 
+}
+.item-list strong { 
+    
+    font-size: 2rem;
+    margin: 2rem 0;
+}
+
+.item-list p {
+    color: rgba(153, 153, 153, 1);
+    font-size: 2rem;
+    margin: 1rem 0;
+}

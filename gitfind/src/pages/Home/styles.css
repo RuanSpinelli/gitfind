@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900display=swap');
+
+h4 {
+    display: flex;
+    font-family: "Roboto", sans-serif;
+    font-size: 2rem;
+    justify-content: center;
+    margin: 0.5rem;
+}
+.conteudo {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+
+
+}
+
+.repositorios {
+    margin-bottom: 1rem;
+}
+
+.background {
+    height: 100vh;
+    position: absolute;
+    left: 0;
+}
+
+.info {
+    width: 60%;
+    margin-right: 5.5rem;
+    margin-top: 2rem;
+    color: white;
+    
+}
+
+input {
+    color: white;
+    border-radius: 2rem;
+    border: 1px solid #999999;
+    background-color: transparent;
+    font-size: 1.1rem;
+    padding: 0.5rem;
+    min-width: 15rem;
+    margin-right: 0.7rem;
+    width: 70%;
+}
+
+button {
+    
+    border-radius: 2rem;
+    border: 1px solid #999999;
+    background-color: #2D333B;
+    font-size: 1.1rem;
+    padding: 0.5rem;
+    color: white;
+    margin-right: 0.7rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+
+}
+
+.perfil {
+
+    display: flex;
+    margin: 1rem 0rem;
+    
+}
+
+.profile {
+    border-radius: 20rem;
+    border: 0.3rem solid #afafaf;
+    height: 10rem;
+    width: 10rem;
+    margin-right: 1.5rem;
+}
+
+.perfil h3 {
+    font-family: "Roboto", sans-serif;
+    color: rgba(153, 153, 153, 1);
+    font-size: 2rem;
+    margin: 0;
+    
+}
+
+
+.perfil p {        
+    font-family: "Roboto", sans-serif;
+    color: rgba(153, 153, 153, 1);
+    font-size: 1rem;
+    margin: 0;
+    margin-top: 1rem;
+}
+
+.perfil span {
+    font-family: "Roboto", sans-serif;
+    color: rgba(153, 153, 153, 1);
+    font-size: 0.8rem;
+    margin: 0;
+}
+
+hr {
+    margin: 0.5rem;
+}

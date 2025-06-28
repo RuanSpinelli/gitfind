@@ -1,0 +1,11 @@
+.input-padrao {
+  color: white;
+  border-radius: 2rem;
+  border: 1px solid #999999;
+  background-color: transparent;
+  font-size: 1.1rem;
+  padding: 0.5rem;
+  min-width: 15rem;
+  margin-right: 0.7rem;
+  width: 70%;
+}
